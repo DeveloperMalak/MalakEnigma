@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **chatbot**
 
-- 📫 How to reach me **https://github.com/MalakEnigma**
+- 📫 How to reach me **malaknoorkhan12345@gmail.com**
 
 <h3 align="left">                       Connect with me:</h3>
 <p align="left">
