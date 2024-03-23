@@ -10,7 +10,7 @@
 <div id="badges">
   <a href="https://github.com/malakenigma">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
-   <a href="https://fb.com/Malak Noorullah Khan">
+   <a href="https://fb.com/MalakNoorullahKhan">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
 </div>
 
